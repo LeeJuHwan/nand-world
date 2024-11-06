@@ -1,7 +1,7 @@
 # Nand to anything. 
 
 > "Welcome nand world"
->  [Hands-on anywhere](https://nand2tetris.github.io/web-ide/chip/)
+> - [Hands-on anywhere](https://nand2tetris.github.io/web-ide/chip/)
 
 
 ### Logic Gates

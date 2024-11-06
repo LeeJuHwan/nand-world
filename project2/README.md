@@ -2,7 +2,8 @@
 
 ## Project2: Boolean Arithmetic
 
-![image](https://github.com/LeeJuHwan/Basic/assets/118493627/44286325-388a-4cd6-a709-b8584bce2bb6)
+![image](https://github.com/user-attachments/assets/e8acbe0f-a3ed-48e2-836d-e829f29a218d)
+
 
 **프로젝트 1에서 작성한 모든 칩들을 이용 하여 반가산기, 전가산기, 가산기, 증분기, 산술 논리 장치를 구현하세요.**
 
@@ -26,7 +27,8 @@
     - carry: 올림 수
     - sum: 더한 결과 값
 
-<img width="475" alt="image" src="https://github.com/LeeJuHwan/Basic/assets/118493627/c88f7c55-092f-403f-b5c0-7d4252c74f35">
+![image](https://github.com/user-attachments/assets/cc9a2a66-d29d-4d7d-bb28-c18b96daa1c4)
+
 
 - implement
 
@@ -52,7 +54,8 @@
     - sum = sumTemp + c
     - carry = carry
 
-<img width="537" alt="image" src="https://github.com/LeeJuHwan/Basic/assets/118493627/237d59d6-4f77-4449-8d53-77b495860f40">
+![image](https://github.com/user-attachments/assets/dd09654e-af3f-4406-adcf-fe97bfe6c071)
+
 
 - implement
 
@@ -130,7 +133,8 @@ Incrementer는 주어진 값에 +1 하는 기능을 맡는다. HalfAdder 에서 
 
 > ALU
 
-<img width="563" alt="image" src="https://github.com/LeeJuHwan/Basic/assets/118493627/37f4d40c-920d-44b1-b431-11f56a53a0eb">
+![image](https://github.com/user-attachments/assets/3a696d06-5017-41e5-bc52-8617cda90cc8)
+
 
 - implement
 

@@ -18,7 +18,8 @@
 
 ---
 
-<img width="697" alt="Pasted image 20230917142401" src="https://github.com/LeeJuHwan/Basic/assets/118493627/72eebd2a-1b95-4934-adfe-85837a03eace">
+![image](https://github.com/user-attachments/assets/7ea4358d-313c-41dc-8702-801b182fba92)
+
 
 > Source Code: HDL
 
@@ -46,7 +47,8 @@ CHIP Bit {
 
 ### Multi-bit Register
 
-<img width="743" alt="Pasted image 20230917143215" src="https://github.com/LeeJuHwan/Basic/assets/118493627/7b1a7dfe-7ccf-4a9f-a08b-3bb1d190e02a">
+![image](https://github.com/user-attachments/assets/90ac94d9-53c0-4b63-abf5-7c1c4545b230)
+
 
 ```ad-success
 ```c
@@ -79,7 +81,7 @@ CHIP Register {
 
 ### RAM8
 ---
-<img width="549" alt="Pasted image 20230917164434" src="https://github.com/LeeJuHwan/Basic/assets/118493627/c0746eba-5adb-45be-977f-10058a5ce86c">
+![image](https://github.com/user-attachments/assets/f683f852-aabd-4c94-946b-feaf4542aef7)
 
 ```ad-info
 1. 어떤 레지스터를 선택 할 것인가?
@@ -133,7 +135,8 @@ CHIP RAM8 {
 
 ### Program Counter
 ---
-<img width="829" alt="Pasted image 20230917213415" src="https://github.com/LeeJuHwan/Basic/assets/118493627/2fe2c81b-b4ec-4ef5-9ee5-46c13a3dbb35">
+![image](https://github.com/user-attachments/assets/c6eb4c6b-0570-49af-883d-817cfaf0444b)
+
 
 ```c
 CHIP PC {
@@ -157,8 +160,3 @@ CHIP PC {
 - 그러기 위해서 레지스터의 값을 최종 결과 값과 피드백루핑 하는 값으로 나뉘어짐
 - 피드백 루핑 하는 값은 절차를 타고 내려오며 하드웨어에서 레지스터가 최종적으로 내보내는 값을 기억 하고 있는 것 과 같음
 ```
-
-### Submit
----
-
-<img width="1006" alt="Pasted image 20230917213959" src="https://github.com/LeeJuHwan/Basic/assets/118493627/c65d81c3-552a-4961-b5f1-31e5e56d53dc">
